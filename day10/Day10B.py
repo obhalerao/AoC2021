@@ -23,10 +23,7 @@ for l in lines:
         s*=5
         cur=stk.pop()
         s+=points[cur]
-    print(s)
     scores.append(s)
-
-print(len(scores))
 
 print(sorted(scores)[len(scores)//2])
 
