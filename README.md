@@ -23,8 +23,9 @@ I initially wrote days 1 and 2 in Kotlin, but refactored my solutions to use Pyt
 | 12  |     57:14     |  4830   |  59:38 (2:24)  |  3334   |
 | 13  |     8:56      |  278    |  12:49 (3:53)  |  235    |
 | 14 |      10:03    |   832       |  34:32 (24:29) |  1219  |
+| 15 |      5:06     |   80     |     48:06 (43:00) | 1436   |
 
 Notes: 
 
 - Day 1 started late
-- Day 12...I was stuck for far too long on a failed solution attempt :(
+- Day 15 part A solution is incorrect on some test cases, but passed mine :P
