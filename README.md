@@ -25,6 +25,7 @@ I initially wrote days 1 and 2 in Kotlin, but refactored my solutions to use Pyt
 | 14 |      10:03    |   832       |  34:32 (24:29) |  1219  |
 | 15 |      5:06     |   80     |     48:06 (43:00) | 1436   |
 | 16 |     24:35     |   169    |    29:48 (5:13)  | 128    |
+| 17 |     18:24     |  794     |    26:21 (7:57)  | 824   |
 
 Notes: 
 
