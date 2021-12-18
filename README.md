@@ -26,8 +26,10 @@ I initially wrote days 1 and 2 in Kotlin, but refactored my solutions to use Pyt
 | 15 |      5:06     |   80     |     48:06 (43:00) | 1436   |
 | 16 |     24:35     |   169    |    29:48 (5:13)  | 128    |
 | 17 |     18:24     |  794     |    26:21 (7:57)  | 824   |
+| 18 |   10:40:50    | 7330    |  10:44:37 (3:47)  | 7080  |
 
 Notes: 
 
 - Day 1 started late
 - Day 15 part A solution is incorrect on some test cases, but passed mine :P
+- Day 18 solved the following morning
