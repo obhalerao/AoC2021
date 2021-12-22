@@ -30,6 +30,7 @@ I initially wrote days 1 and 2 in Kotlin, but refactored my solutions to use Pyt
 | 19 |    9:50:26    | 4074    |  10:06:24 (15:58) | 3899  |
 | 20 |    37:35      | 1067    |  42:23 (4:48)     | 1073  |
 | 21 |   10:05       | 686     |  1:06:00 (55:55)  | 1490  |
+| 22 |    6:36       | 153     |  2:37:08 (2:30:32) | 1608 |
 
 Notes: 
 
@@ -37,3 +38,4 @@ Notes:
 - Day 15 part A solution is incorrect on some test cases, but passed mine :P
 - Day 18 solved the following morning
 - Day 19 also solved the following morning
+- Day 22 has two solutions: one VERY slow, and one faster
