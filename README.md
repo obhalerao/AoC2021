@@ -40,3 +40,4 @@ Notes:
 - Day 18 solved the following morning
 - Day 19 also solved the following morning
 - Day 22 has two solutions: one VERY slow, and one faster
+- Day 23 part B solved the following morning
