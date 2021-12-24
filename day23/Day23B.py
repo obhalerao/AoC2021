@@ -212,3 +212,4 @@ while arr:
 
 print(dists[tuple(tuple(g) for g in FINAL)])
 
+print(len(seen))
