@@ -35,6 +35,8 @@ I initially wrote days 1 and 2 in Kotlin, but refactored my solutions to use Pyt
 | 24 | 2:05:37       | 586   |   2:07:34 (1:57)    |  514   |
 | 25 | 10:30         | 157    |   10:34 (0:04)     | 134    |
 
+Final global rank: 466th
+
 Notes: 
 
 - Day 1 started late
